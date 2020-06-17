@@ -1,0 +1,3 @@
+# Abstract
+This project is made for the Romi (a robotic car), this algorithm can help Romi deteck gray level so as to follow line then automatic 
+reverse the romi and run back to the original position. 
